@@ -1,9 +1,29 @@
 body {
-    background-color: #ffffcc;
     font-family: sans-serif;
+    background-image: url(https://media.giphy.com/media/l41lIvPtFdU3cLQjK/giphy.gif);
+    background-size: cover;
+    color: black;
+    font-stretch: expanded;
 }
+
 .jumbotron {
     background-color: inherit;
     text-align: center;
     font-style: oblique;
+    margin-bottom: -20px;
+}
+.row {
+    font-size: 20px;
+}
+.col-md-3 {
+    padding-right: 0px;
+    border-right: 2px solid black;
+}
+.col-md-9 {
+    padding-left: 50px;
+}
+#output {
+    padding: 20px;
+    color: #00264d;
+    font-size: 22px;
 }
