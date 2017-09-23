@@ -32,7 +32,7 @@ Built With
 
 Github Pages
 
-Site is published at https://saneyee.github.io/track-suggester/
+Site is published at https://saneyee.github.io/PING-PONG/
 
 Contributing
 
