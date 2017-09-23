@@ -1,0 +1,9 @@
+body {
+    background-color: #ffffcc;
+    font-family: sans-serif;
+}
+.jumbotron {
+    background-color: inherit;
+    text-align: center;
+    font-style: oblique;
+}
