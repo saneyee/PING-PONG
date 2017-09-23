@@ -1,7 +1,7 @@
 
 PING PONG
 
- A web page is created wuth arrays and loops where a user enters a digit and the output shows the list upto that number with ping, pong and pingpong in the places of those numbers which are divisible by 3,5 and 15 respectively.
+ A web page is created with arrays and loops where a user enters a digit and the output shows the list upto that number with ping, pong and pingpong in the places of those numbers which are divisible by 3,5 and 15 respectively.
 
 Prerequisites
 
